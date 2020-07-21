@@ -1,4 +1,4 @@
-<div style="background: red;">Hey, I’m Tomy.</div>
+Hey I’m Tomy
 
 <!--
 **tmus/tmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
