@@ -1,4 +1,4 @@
-What should I put here?
+# 👋 Hi, I'm Tom!
 
 <!--
 **tmus/tmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
